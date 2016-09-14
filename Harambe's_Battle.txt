@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Andrew Burcar CP4 HTML Exploration </title>
+</head>
+<body>
+
+<h1> Harmabe's Battle Against the World's Greatest Threat: Godzilla </h1>
+<h2> Harmabe has returned to protect the world as Godzilla wreaks havoc through the city </h2>
+<img src= "maxresdefault.jpg" alt="Harmabe Versus Godzilla, His Final Battle." style="width:1280px;height:720px;">   
+<p>  As the third day of Godzilla's control over Cincinnati drags on, more strange reports are flowing in.  
+     At 8:43 this morning,commuters in central downtown Cincinnati noticed a large dark mass descending from the overcast skies. The Department of Homeland Security and the United States Air force
+    reacted to the situation. By 9:00 air force fighter were deployed on on scene but their mission was quickly complicated as the unidentified object plumeted toward 14th Street.
+	We have recived reports and amateur photgraphs of the mass unfolding, many report the alien attacked to be the spirit of the Returned Harambe the Gorilla. We have no confimation on the legitimacy 
+    of these reports. </p>
+<p> The The Department of Homleand Security has not confirmed or denied any of the evetns of today. Primatologist 
+     Goane Janeodall has informed us the this is infact the spirit of Harambe that has returned to libreate his hometwon of the Godzilla Threat. </p> 
+<p> The President is expected to comment later on this morning. More details to come. <p>
+
+<p> Central Cincinnati News Reports. </p> 
+<html> 	 
+           
